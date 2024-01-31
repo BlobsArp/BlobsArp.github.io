@@ -63,14 +63,13 @@ const NavLinks = ({ saveBlob }) => {
           </Box>
           <Box as={Text}>
             <Button
-              href="http://www.twitter.com/intent/tweet?url=https://lokesh-coder.github.io/blobs.app/&text=Generate%20beautiful%20blob%20shapes%20for%20web%20and%20flutter%20apps"
+              href="https://sylus.co.uk"
               target="_blank"
               as={Link}
               variant="heavy"
-              leftIcon={<TwitterIcon fontSize="18px" />}
               aria-label="Share"
             >
-              Share
+              Sylus SEO
             </Button>
           </Box>
         </HStack>
